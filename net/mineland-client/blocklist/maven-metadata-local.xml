@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland-client</groupId>
+  <artifactId>blocklist</artifactId>
+  <versioning>
+    <release>mojang-1.0.5</release>
+    <versions>
+      <version>mojang-1.0.5</version>
+    </versions>
+    <lastUpdated>20210718162051</lastUpdated>
+  </versioning>
+</metadata>

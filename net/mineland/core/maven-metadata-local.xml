@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.mineland</groupId>
+  <artifactId>core</artifactId>
+  <versioning>
+    <release>1.16.5-class-fixes</release>
+    <versions>
+      <version>1_16_1</version>
+      <version>fix-classloader-1.16</version>
+      <version>fix-dupes</version>
+      <version>portaldupefix</version>
+      <version>boatcollisionfix</version>
+      <version>autocraftfix</version>
+      <version>itemframe-rollback</version>
+      <version>fix_classloader_1-12</version>
+      <version>fix_classloader_1-16</version>
+      <version>teleport-fix</version>
+      <version>1.16-asm-update</version>
+      <version>1.16-asm-update-fix-class-loader</version>
+      <version>1.16.5-class-fixes</version>
+    </versions>
+    <lastUpdated>20230716111254</lastUpdated>
+  </versioning>
+</metadata>
